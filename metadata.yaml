@@ -1,0 +1,45 @@
+_repo: The-Visions-of-Dom-Francisco-de-Quevedo-Villegas_41908
+_version: 0.1.0
+alternative_title: Los sueños. English
+contributor:
+  translator:
+    agent_name: L'Estrange, Roger, Sir
+    aliases:
+    - L'Estrange, Sir Roger
+    - L'Estrange, R. (Roger), Sir
+    birthdate: 1616
+    deathdate: 1704
+    gutenberg_agent_id: '39411'
+    url: http://www.gutenberg.org/2009/agents/39411
+    wikipedia: http://en.wikipedia.org/wiki/Roger_L'Estrange
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quevedo, Francisco de
+    aliases:
+    - De Quevedo y Villegas, Francisco Gómez
+    - Gómez de Quevedo y Villegas, Francisco
+    - Villegas, Francisco Gomez de Quevedo y
+    - Villegas, Francisco Gómez de Quevedo y
+    birthdate: 1580
+    deathdate: 1645
+    gutenberg_agent_id: '35792'
+    url: http://www.gutenberg.org/2009/agents/35792
+    wikipedia: http://en.wikipedia.org/wiki/Francisco_de_Quevedo
+description: ''
+gutenberg_issued: '2013-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish literature -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Satire'
+title: The Visions of Dom Francisco de Quevedo Villegas
+url: http://www.gutenberg.org/ebooks/41908
